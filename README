@@ -1,19 +1,12 @@
-Learn Rails
-============================================
+# ec-by-ruby
 
-This is an example Rails 4.0 application to accompany the "Learn Rails" book.
+building EC by Ruby
 
-See the "Learn Rails" book:
-http://learn-rails.com/
+# environment
 
-________________________
+- ruby 2.6
+- rails 6.0
 
-For more information, please see the updated README file on GitHub:
+# run
 
-https://github.com/railsapps/learn-rails
-
-________________________
-
-MIT License
-
-http://www.opensource.org/licenses/mit-license
+rails server
